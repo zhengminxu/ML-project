@@ -3,7 +3,7 @@
 - Simple baseline: 0.08105
 
 ## Todo:
-- Come up with some ideas and **upload** them
+- Try your own method.
 
 ## Next meeting:
-- 12/6, Tue, 19:00 at library
+- 12/16, Fri, 19:00 at library
