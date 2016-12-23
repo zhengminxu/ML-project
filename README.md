@@ -1,9 +1,9 @@
 # ML-project: Transfer Learning on Stack Exchange Tags
-- Stage 2 deadline: 12/16 21:00
-- Simple baseline: 0.08105
+- Stage 3 deadline: 12/30 21:00
+- Simple baseline: 0.11771
 
-## Todo:
-- Try your own method.
-
-## Next meeting:
-- 12/16, Fri, 19:00 at library
+## Tips:
+- 2連詞，3連詞
+- 名詞
+- 限制tag數量在5個以下
+- 單詞長度太短的刪掉，字母數<3的刪掉
