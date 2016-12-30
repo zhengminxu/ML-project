@@ -1,5 +1,5 @@
 '''
-Target:
+Applied (outout_5.csv --> outout_9.csv):
 (1) electromagnetic --> electromagnetism
 (2) blackhole / blackholes / black hole --> black-holes
 (3) fourier / fourier-transformation --> fourier-transform
@@ -11,20 +11,26 @@ Target:
 (9) mnemonics --> mnemonic
 (10) neutron --> neutrons
 (11) proton --> protons
-(11) coulomb --> coulombs-law
-(12) gauss --> gauss-law
-(13) magnitude order --> order-of-magnitude
-(14) battery --> batteries
-(15) home experiment --> home-experiment
+(12) coulomb --> coulombs-law
+(13) gauss --> gauss-law
+(14) magnitude order --> order-of-magnitude
+(15) battery --> batteries
+(16) home experiment --> home-experiment
+(17) quantum --> quantum-mechanics
+(18) mathematical --> mathematical-physics
+(19) pauli --> pauli-exclusion-principle
+(20) slit / slit experiment / slit-experiment --> double-slit-experiment
+(21) magnetic --> magnetic-fields
+(22) recommendation / recommendations --> resource-recommendations
 ------------------------------------------
-Not so sure:
+Not applied yet:
 (1) angular / angular momentum --> angular-momentum
-(1) current --> electric-current
-(1) representation / representations --> representation-theory (or group-representation)
-(2) particle / particles --> particle-physics
-(3) magnetic --> magnetic-fields
-(4) group --> group-theory (or group-representation)
-(5) lie --> lie-algebra
+(2) current --> electric-current
+(3) representation / representations --> representation-theory (or group-representation)
+(4) particle / particles --> particle-physics
+(5) magnetic --> magnetic-fields
+(6) group --> group-theory (or group-representation)
+(7) lie --> lie-algebra
 '''
 
 import numpy as np # linear algebra
@@ -55,7 +61,7 @@ for k,v in old.items():
 
 len(old_tags)
 
-old_tags_sorted = sorted(old_tags.items(), key=operator.itemgetter(0), reverse = True)
+old_tags_sorted = sorted(old_tags.items(), key=operator.itemgetter(1), reverse = True)
 old_tags_sorted[0:50]
 ## End of [check and sort all tags]
 
@@ -68,6 +74,10 @@ for idx,row in old.items():
 	has_magnitude = False
 	has_home = False
 	has_quantum = False
+	has_pauli = False
+	has_slit = False
+	has_slit_experiment = False
+	has_magnetic = False
 	for tag in row:
 		if tag == 'electromagnetic':
 			new_row.append('electromagnetism')
@@ -101,12 +111,28 @@ for idx,row in old.items():
 			new_row.append('order-of-magnitude')
 		elif tag == 'battery':
 			new_row.append('batteries')
-		elif tag == "home":
+		elif tag == 'home':
 			new_row.append('home-experiment')
 			has_home = True
-		elif tag == "quantum":
+		elif tag == 'quantum':
 			new_row.append('quantum-mechanics')
 			has_quantum = True
+		elif tag == 'mathematical':
+			new_row.append('mathematical-physics')
+		elif tag == 'pauli':
+			new_row.append('pauli-exclusion-principle')
+			has_pauli = True
+		elif tag == 'slit':
+			new_row.append('double-slit-experiment')
+			has_slit = True
+		elif tag == 'slit-experiment':
+			new_row.append('double-slit-experiment')
+			has_slit_experiment = True
+		elif tag == 'magnetic':
+			new_row.append('magnetic-fields')
+			has_magnetic = True
+		elif tag == 'recommendation' or tag == 'recommendations':
+			new_row.append('resource-recommendations')
 		else:
 			new_row.append(tag)
 	if has_fourier and 'transform' in new_row:
@@ -122,7 +148,6 @@ for idx,row in old.items():
 			if 'general' in new_row:
 				new_row.append('general-relativity')
 				new_row.remove('general')
-		
 	if has_magnitude and 'order' in new_row:
 		new_row.remove('order')
 	if has_home:
@@ -135,9 +160,29 @@ for idx,row in old.items():
 			new_row.remove('mechanics')
 		elif 'mechanic' in new_row:
 			new_row.remove('mechanic')
+	if has_pauli:
+		if 'exclusion' in new_row:
+			new_row.remove('exclusion')
+		if 'principle' in new_row:
+			new_row.remove('principle')
+	if has_slit:
+		if 'experiment' in new_row:
+			new_row.remove('experiment')
+		if 'experiments' in new_row:
+			new_row.remove('experiments')
+		if 'double' in new_row:
+			new_row.remove('double')
+	if has_slit_experiment:
+		if 'double' in new_row:
+			new_row.remove('double')
+	if has_magnetic:
+		if 'field' in new_row:
+			new_row.remove('field')
+		if 'fields' in new_row:
+			new_row.remove('fields')
 	new[int(idx)] = list(set(new_row))
 
-output_name = 'output_8.csv'
+output_name = 'output_9.csv'
 output = open(output_name,'w')
 writer = csv.writer(output, quoting = csv.QUOTE_ALL)
 writer.writerow(['id','tags'])
