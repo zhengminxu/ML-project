@@ -7,3 +7,5 @@ run cluster.py to get required files ready (can adjust nb_cluster in it, store i
 run count_n_grams_fine_tune.py to get tags (store in /cluster_tags)
 run merge.py to merge all answers in /cluster_tags to /merge_resluts/result.csv (this is the answer before fine-tuning)
 run my_fine_tune.py to fine-tune /merge_resluts/result.csv to /merge_resluts/tuned.csv
+
+weights.py is to get NN_models (best.h5)
