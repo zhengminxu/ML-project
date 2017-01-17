@@ -401,6 +401,33 @@ T=ML^2/3 * a * .65 (due to the whole 65% thing. Actually not sure if I should pu
 
 <p>Is $r$ increasing? ($\Delta r/ \Delta t = 3.26070717 × 10^{-10} m/s $)</p>
 "
+"214","Would it help if you jump inside a free falling elevator?","<p>Imagine you're trapped inside a free falling elevator. Would you decrease your impact impulse by jumping during the fall? When?</p>
+"
+"257","Particle colliders: why do they need an accelerator chain","<p>Particle colliders like the LHC or the Tevatron use a complex accelerator chain to have particles at a given energy before being accelerated.</p>
+
+<p>For example:</p>
+
+<ul>
+<li><a href=""http://public.web.cern.ch/public/en/Research/AccelComplex-en.html"" rel=""nofollow"">The CERN accelerator complex to inject in the LHC</a>: protons are first accelerated by a LINAC, then by a ""booster"" synchrotron, then by a larger synchrotron, and finally by a very large synchrotron where they reach 450 GeV/c.</li>
+<li>As was discussed in <a href=""http://physics.stackexchange.com/questions/101/production-of-antiproton-at-the-tevatron/229#229"">link text</a> , the <a href=""http://www.fnal.gov/pub/inquiring/physics/accelerators/chainaccel.html"" rel=""nofollow"">chain for the Tevatron</a></li>
+</ul>
+
+<p>They both require ""injector"" accelerator(s).</p>
+
+<p><img src=""http://i.stack.imgur.com/PzikJ.gif"" alt=""alt text""></p>
+
+<p>My question is simple: why ? Why can't we have a single accelerator with a source and the possibility to accelerate the particles to the top energy.</p>
+
+<hr>
+
+<p>Note: this is also a seeding question, but I am curious how complete and clear an explanation to that can be provided.</p>
+"
+"268","What physical forces pull/press water upwards in vegetation?","<p>Each spring enormous amounts of water rise up in trees and other vegetation. What causes this stream upwards? </p>
+
+<p>Edit: I was under the impression that capillary action is a key factor: the original question therefore was: what are the fundamental forces involved in capillary action?</p>
+
+<p>Can perhaps anybody make an estimation of the amount of gravity energy that is involved in this process earth-wide each season?</p>
+"
 "312","Particle physics getting started","<p>I know classical physics, quantum mechanics, special relativity, basic nuclear physics. 
 I would like to get into some particle physics. </p>
 
@@ -409,6 +436,41 @@ I would like to get into some particle physics. </p>
 <p>Where to start? Any books, websites, video lectures? </p>
 
 <p>Mathematical rigor required! </p>
+"
+"321","Planet orbits: what's the difference between gravity and centripetal force?","<p>My physics teacher says that centripetal force is caused by gravity. I'm not entirely sure how this works? How can force cause another in space (ie where there's nothing). </p>
+
+<p>My astronomy teacher says that gravity is (note: not like) a 3D blanket and when you put mass on it, the mass causes a dip/dent in the blanket and so if you put another object with less mass it will roll down the dip onto the bigger mass. Is this true and is this what causes the centripetal force. </p>
+"
+"356","How can I measure the mass of the Earth at home?","<ol>
+<li><p>How can I measure the mass of the Earth at home? </p></li>
+<li><p>How was the mass of the Earth first measured?</p></li>
+</ol>
+"
+"388","Advantages of high-energy heavy-ion collisions over proton-proton collisions?","<p>Some high-energy experiments (RHIC, LHC) use ion-ion collisions instead of proton-proton collisions. Although the total center-of-mass energy is indeed higher than p-p collisions, it might happen that the total energy <em>per nucleon</em> is actually lower. What are the advantages of using ion-ion collisions (e.g. gold-gold or lead-lead) instead of proton-proton collisions, considering the same accelerator?</p>
+"
+"478","Is it possible to project a magnetic field at a location in space?","<p>A magnetic field strength drops-off quickly as the distance from a magnet increases.</p>
+
+<p>Is there any way to use electromagnetic fields to create a magnetic field at a location. For example, if there are strong electromagnetic fields intersecting at a location from many strong transmitters, could a constructive interference be created which creates a local magnetic field?</p>
+
+<p>The engineering idea is that if you create an array of radio transmitters at a strong strength working together, could there be a interference pattern at a point far from the transmitters (maybe 100 meters away) where the fields produce a magnetic field at that location.</p>
+
+<p>I think this could be done as a EM field is composed of a electric field and a magnetic field, shouldn't there be a way to make the magnetic field strong at a location in space.</p>
+
+<p>A positive consequence of this would be that a magnetic placed at that location 100 meters away could be moved by the field. Also, if the field was alternating, rather than steady, then a electromagnet at that location could be alternating, and the force on the electromagnet could provide motive force.</p>
+
+<p>I guess since I have never heard of this, it cannot be done. But then again, it was once said that levitating a normal magnet could not be done, then someone did it with a spinning magnet which levitates above another magnet, now it is a popular toy. The reason it works is that the magnet is spinning so that it cannot flip over. See <a href=""http://en.wikipedia.org/wiki/Spin-stabilized_magnetic_levitation"">spin stabilized magnetic levitation</a>. </p>
+
+<p>--- Update</p>
+
+<p>Hi, I would like to clarify, I wish to move a physical object, a small magnet at a distance, not to transmit power to the object. Thanks!</p>
+
+<p>--- Update 2</p>
+
+<p>My engineering goal for this is a small magnetic, spin stabilized, being pushed from a distant location. A small spin stabilized magnet pushed from below by some ""projected"" magnetic field could potentially overcome the force of gravity. Imagine a thin lightweight spinning disk with a magnet in the center. If a projected magnetic field is pushing it upwards then it would stay stable and could be projected from ground into space.</p>
+
+<p>This might be done with an array of thousands of transmitters on the ground, somewhere in the desert far away from people. All transmitters could focus a small magnetic field at this magnet.</p>
+
+<p>Alternatively, if the magnetic field alternates with a frequency, then the magnet in the levitated device could also be alternating via electromagnetism, it could be powered by an battery or microwave power transmitted to the object. This is more or less an engineering problem if there is some basic science which can allow this to be a potential reality.</p>
 "
 "503","Open problems in special relativity, and non-inertial motion in flat-spacetime, or things that have been discovered recently","<p>What classical open problems are there in special relativity, including questions about non-inertial motion in flat-spacetime, but excluding questions about quantum theories.</p>
 
@@ -426,9 +488,35 @@ I would like to get into some particle physics. </p>
 
 <p>Edit: I +1ed the answer on self-force because it was an interesting general issue, but once we are talking about fields and particles then we are getting away from the question which is really about calculations in the theory of special relativity itself. Once we talk about fields and particles then I guess there are lots of problems and an accurate treatment requires quantum theories which this question is not about.</p>
 "
+"575","Is it possible/correct to describe electromagnetism using curved space(-time)?","<p>Comparing the simples form of the forces of both phenomena: the law of Newton for gravitation  $V\propto \frac{1}{r}$, and the Coulomb law for electrostatics $V\propto \frac{1}{r}$, one might think that if one can be extended relativistically to a curvature in space-time, that the other one would lend itself to a similar description. Is this so?</p>
+
+<p>Thanks for any useful thoughts and/or suggestions!</p>
+"
+"783","Is Dr Quantum's Double Slit Experiment video scientifically accurate?","<p>I'm fascinated by the fundamental questions raised by the Double Slit Experiment at the quantum level. I found this <a href=""http://www.youtube.com/watch?v=DfPeprQ7oGc"">""Dr Quantum"" video clip</a> which seems like a great explanation. But is it scientifically accurate?</p>
+"
+"815","What categorical mathematical structure(s) best describe the space of “localized events” in “relational quantum mechanics”?","<p>In a recent (and to me, very enlightening) paper, entitled ""Relational EPR"", <a href=""http://arxiv.org/abs/quant-ph/0604064"">Smerlak and Rovelli</a> present a way of thinking about EPR which relies upon Rovelli's previously published work on relational quantum mechanics (see <a href=""http://arxiv.org/abs/quant-ph/9609002"">http://arxiv.org/abs/quant-ph/9609002</a> ). In relational quantum mechanics, there is no non-locality, but the definition of when an event occurs is weakened from Einstein's strict definition and instead is localized to each observer-measurement apparatus, including subsequent observers. There are (informal) coherence assumptions to ensure the consistency of reports from different subsequent observers (all possible friends of Wigner).</p>
+
+<p>All of this seems very similar to various results in modern categorical mathematics. Is there a standard mathematical structure which well describes the structure of the space of localized measurements which Rovelli has envisioned? I know of Isham's work on topos theory and quantum mechanics, but I think he is aiming at something a little different.</p>
+
+<p>PS I first asked this on mathunderflow, then on mathoverflow but to no avail, I am therefore reposting it here.</p>
+"
 "879","Is the G2 Lie algebra useful for anything?","<p>Seems like all the simpler Lie algebras have a use in one or another branch of theoretical physics.  Even the exceptional E8 comes up in string theory.  But G2?   I've always wondered about that one.    </p>
 
 <p>I know only of one false alarm in the 1960s or 1970s before SU(3) quark theory was understood, some physicists tried to fit mesons into a G2 representation.</p>
+"
+"886","Swimming in Spacetime - apparent conserved quantity violation","<p>My question is about the article <a href=""http://www.sciencemag.org/cgi/content/full/299/5614/1865"">Swimming in Spacetime</a>.</p>
+
+<p>My gut reaction on first reading it was ""this violates conservation of momentum, doesn't it?"". I now realize, however, that this doesn't allow something to change its momentum; it only allows something to move (change position) without ever having a nonzero momentum. Since this is relativity, there is no simple relationship between momentum and velocity like p = mv, so this is all well and good. An object can move, with a constant momentum of zero, by changing its shape in a nontrivial cycle.</p>
+
+<p>However, now I'm thinking about a different conservation law and I can't see how ""swimming through spacetime"" is possible without violating it. The conserved quantity I'm thinking of is <a href=""http://math.ucr.edu/home/baez/boosts.html"">the Noether charge associated with Lorentz boosts</a>, which is basically x - (p/E)t, that is, the position of the center of mass projected back to time t=0. If p = 0, then the conserved quantity is simply x, the position of the center of mass. This obviously contradicts the whole swimming idea.</p>
+
+<p>What's going on here? Is swimming through spacetime only possible if the spacetime is curved in some way that breaks the symmetry under Lorentz boosts? Or is there some error in my reasoning?</p>
+"
+"944","Noticing that Newtonian gravity and electrostatics are equivalent, is there also a relationship between the general relativity and electrodynamics?","<p>In classical mechanics, we had Newton's law of gravity $F \propto \frac{Mm}{r^2}$.  Because of this, all laws of classical electrostatics applied to classical gravity if we assumed that all charges attracted each other due to Coulomb's law being analogous.  We can ""tweak"" classical electrostatics to fit gravity.</p>
+
+<p>In modern physics, does the reverse work?  Can we ""tweak"" General Relativity to accurately describe electrostatics or even electromagnetism?</p>
+"
+"1061","Why does GPS depend on relativity?","<p>I am reading <em>A Brief History of Time</em> by Stephen Hawking, and in it he mentions that without compensating for relativity, GPS devices would be out by miles. Why is this? (I am not sure which relativity he means as I am several chapters ahead now and the question just came to me.)</p>
 "
 "1073","How does classical GR concept of space-time emerge from string theory?","<p>First, I'll state some background that lead me to the question.</p>
 
@@ -461,6 +549,8 @@ I would like to get into some particle physics. </p>
 
 <p>So which one is the true reason of me not flopping inside the earth forever? Is it only one of them(my guess is Pauli exclusion) or is it both?</p>
 "
+"1080","Why isn't Higgs coupling considered a fifth fundamental force?","<p>When I first learned about the four fundamental forces of nature, I assumed that they were just the only four kind of interactions there were. But after learning a little field theory, there are many other kinds of couplings, even in the standard model. So why isn't the Yukawa Higgs coupling considered a fifth fundamental force? To be a fundamental force, does there need to be a gauge boson mediating it?</p>
+"
 "1112","Modified Maxwell's equations","<p>In 1985, Harmuth wrote that Maxwell's equations are incompatible with causality, and overcame the problem by adding a term for magnetic dipole currents, and as a consequence the problem of infinite zero-point energy and renormalization disappears. At least according to Harmuth's book:</p>
 
 <p>Calculus of finite differences in quantum electrodynamics
@@ -470,6 +560,29 @@ I would like to get into some particle physics. </p>
 
 <p>Are Harmuth's modifications generally accepted by the physics community as a more accurate description of reality than the unmodified equations ? </p>
 "
+"1229","Is there any situation in Physics where the Right Hand Rule is not arbitrary?","<p>We use Right Hand Rule in calculating Torque not because that's the direction torque is pointing in the real, physical world, but because it's a convenient way to indicate the ""sign"" of the rotation and its axis, and as long as we pick one coordinate system and stick to it, everything works out.</p>
+
+<p>I think (I might be incorrect) we use the Right Hand Rule in Electromagnetism arbitrarily, but it happens to be very convenient only because of the right combination of Benjamin Franklin's arbitrary choice for designating current flow and the way our magnetic field was aligned at the time of the convention choice for North.  But essentially, it is arbitrary -- if Benjamin Franklin had chosen current flow to match the flow of electrons, we'd either use another choice of axes or say that the magnetic field is negative.</p>
+
+<p>What I'm saying is that I don't think that nature itself is inherently ""right handed"" in this situation.</p>
+
+<p>Is there any case/situation in physics where the Right Hand Rule and choice of coordinate axes is not arbitrary, but rather inherent in nature itself?  How so?</p>
+"
+"1305","Producing energy from magnetic flux loops","<p>I've simplified this down by quite a lot but as far as I understand it, magnetic fields on the Sun's surface twist together and when it gets all a bit too much they release energy.<br>
+ My question is why can't we twist magnetic fields here on Earth to produce energy?</p>
+"
+"1756","Interaction ranges in the Standard Model - Electrodynamics vs QCD","<p>as you might know, the Standard Model of physics can be seen as a $U(1)\times SU(2)\times SU(3)$ gauge theory where each symmetry group accounts for different force fields.</p>
+
+<p>The behaviour for the force field of a ""point"" charge in the most simple cases of this model, the electromagnetic interaction expressed as an abelian (elements commute) $U(1)$ theory, is well known and falls of as $r^{-2}$ and is proportional to the total charge of the source. One states that this force is long range as it only falls off polynomial.</p>
+
+<p>Now, the system for the other interactions, the weak and strong ones, is much more complicated since the underlying groups are not abelian which makes the problem intrinsically nonlinear as can be seen from the Yang-Mills equations, $F = DA, DF = 0$ and its dual counterpart. In contrast to electromagnetism, the interaction range falls off rather quickly and different potentials are known to describe different phenomena.</p>
+
+<p>My Question is:</p>
+
+<p>Can one see directly (e.g. from the non-Abelian character of the group) that the decay of the force field must be faster than for electrodynamics? </p>
+
+<p>Thank you in advance.</p>
+"
 "1869","What reasons are there to suspect string theory may be an incorrect theory?","<p>It's a truism that in science it is at least as important to state the reasons why a theory or idea might be wrong, as to state the reasons why it is might be correct.  For example, early renormalization methods made experimental predictions that were very accurate, but the inventor's famously worried for decades about the conceptual problems of divergences; and many of their papers/articles/books on the subject include a long discussion about how acutely worried they were that their method for handling divergences was deeply flawed somehow.</p>
 
 <p>My intention with this post is not to engage any user in a debate about whether string theory is true or not.  I think anyone who takes string theory seriously should be happy to acknowledge as clearly as possible all the potential theoretical issues/problems with the theory. </p>
@@ -478,15 +591,200 @@ I would like to get into some particle physics. </p>
 
 <p>Please keep all answers to one issue per post.</p>
 "
+"1971","Approximating mean daily and hourly temperature beyond Fourier series","<p>Summary: What ""well-known"" and short parametrized mathematical 
+function describes daily and hourly temperature for a given location? </p>
+
+<p>If you look at the mean daily temperature graph for a given location, 
+it looks like a sine wave with a period of one year. </p>
+
+<p>Similarly, the hourly temperature for a given day for a given location 
+also looks like a sine wave with a period of one day. </p>
+
+<p>However, closer inspection (Fourier analysis) shows that they're 
+not. There are fairly strong components of frequency 2/year and 3/year 
+for the daily temperature, and the hourly temperature also has strong 
+non-single-period terms. </p>
+
+<p>Is there a parametrized function that reasonably describes the daily 
+mean temperature and (a separate function) the hourly mean 
+temperature? The parameters would be location-based. </p>
+
+<p>I realize I can keep taking more Fourier terms to increase accuracy, 
+but I was hoping for something more elegant. For example, maybe the 
+graph is a parametrized version of sin^2(x) or some other 
+""well-known"" function. </p>
+"
+"1975","Zero magnetization of spin model without external magnetic field","<p>For a given Hamiltonian with spin interaction, say Ising model
+$$H=-J\sum_{i,j} s_i s_j$$
+in which there are no external magnetic field. The Hamiltonian is invariant under transformation $s_i \rightarrow -s_i$, so there are always two spin states with exactly same energy.</p>
+
+<p>For the magnetization $M = \sum_i s_i$, we can take the ensemble average
+$$\left\langle M\right\rangle =\sum_{\{s_{i}\}}M\exp(-\beta E)$$
+and the result should be $\left\langle M\right\rangle  = 0$ because the two states with all spin flipped will exactly cancel each other. There is an argument for this in the <a href=""http://en.wikipedia.org/wiki/Ising_model#Peierls_droplets"" rel=""nofollow"">wiki</a>.</p>
+
+<p>So the question: how is this situation handled for finite and infinite lattice? How can they obtain the non-zero magnetization for the <a href=""http://en.wikipedia.org/wiki/Ising_model#Two_dimensions_.E2.80.93_Onsager.27s_solution"" rel=""nofollow"">2D Ising model</a>?</p>
+
+<p>$$M=\left(1-\left[\sinh\left(\log(1+\sqrt{2})\frac{T_{c}}{T}\right)\right]^{-4}\right)^{1/8}$$
+</p>
+
+<hr>
+
+<p><strong>Some information</strong>: for a 1D Ising model with external magnetic field, one can solve the Hamiltonian
+$$H=-J\sum_{i,j} s_i s_j - \mu B \sum_i s_i$$
+and obtains the magnetization as
+$$\left\langle M\right\rangle =\frac{N\mu\sinh(\beta\mu B)}{\left[\exp(-4\beta J)+\sinh^{2}(\beta\mu B)\right]^{1/2}}$$
+It gives the result $\left\langle M\right\rangle  \rightarrow 0$ when $B \rightarrow 0$ for any temperature and this match the definition of the magnetization above. However, it gives $\left\langle M\right\rangle  \rightarrow N\mu$ when we take the limit of $T \rightarrow 0$. It suggests the ordering of limit is important, but we still get $\left\langle M\right\rangle  = 0$ when there is no external magnetic field.</p>
+
+<hr>
+
+<p><strong>Reminder</strong>: There are some precautions needed to care when you run computer simulation using the definition of magnetization above directly, otherwise, you will always get 0. These methods are similar to create a spontaneous symmetry breaking manually, for the Ising model, the following may be used:</p>
+
+<ul>
+<li>Use the $\left\langle |M|\right\rangle$ instead</li>
+<li>Fix the state of one spin so that the system will close to either $M=+1$ or $M=-1$ at low temperature.</li>
+</ul>
+
+<p>In general, the finite size scaling should be used because we are likely interested in the thermodynamic limit of the system.</p>
+
+<hr>
+
+<p><strong>Update</strong>:
+Visualization should explain the problem better. Here is the figure of the canonical distribution as a function of magnetization $M$ and temperature $T$ for 3D Ising model ($L = 10$).
+<img src=""http://i.stack.imgur.com/jsf5R.png"" alt=""alt text""></p>
+
+<p>At a fixed temperature $T \lesssim T_c$, there are two symmetric peaks with opposite magnetization. If we blindly use the $\left\langle M\right\rangle$ defined before, we will get $\left\langle M\right\rangle = 0$. So how do we deal with this situation?</p>
+
+<p>For a finite system, there is a finite probability that the transition between two peaks can occur. However, the ""valley"" between two peaks will become deeper and deeper when the size of the system $L$ increase. When $L \rightarrow \infty$, the transition probability tends to zero and those two configuration space should be separated. Note that the ""flat mountain"" in the figure at $L = 10$ will also become a very very sharp peak when $L \rightarrow \infty$.</p>
+
+<p>One method discussed in the answers below is to consider the average of $M$ for separate configuration spaces. This seems reasonable for infinite system, but becomes a problem for finite system. Another problem raised here is that how to find each separated configuration spaces?</p>
+
+<hr>
+
+<p>Thanks people try to give the answers to this question. In the following discussion, Kostya gives the typical treatment of spontaneous symmetry breaking. Marek discusses the ensemble average below and above the critical temperature. Greg Graviton gives an analogue for the real space spontaneous symmetry breaking.</p>
+
+<p>If anyone can explain better to the problem of configuration space and how to take the average for Ising model, other spin models or general case, you are welcome to leave answer here.</p>
+"
 "2147","Controllable faster-than-light phase velocity","<p>This is not another question about faster-than-light travel or superluminal communication. I totally appreciate the speed limit capped by physical laws (or theories.) </p>
 
 <p>Just curious, since there is no limit for phase velocity, is there any way to generate a wave with controllable phase velocity higher than speed of light?</p>
+"
+"2579","Does string theory tells us anything concrete about black hole decay?","<p><strong>EDIT:</strong> I edited the question to reflect Moshe's objections. Please, look at it again.</p>
+
+<hr>
+
+<p>It's apparently a black hole time around here so I decided to ask a question of my own.</p>
+
+<p>After a few generic questions about black holes, I am wondering whether string theory is able to provide something beyond the usual semiclassical Hawking radiation talk. Feel free to provide an answer from the standpoint of other theories of quantum gravity but AFAIK none of the other theories has yet come close to dealing with these questions. That's why I focus on string theory.</p>
+
+<p>So let's talk about micro black holes. They have extreme temperature, extreme curvature, and I guess they must be exceptional in other senses too. At some point the gravitational description of these objects breaks down and I imagine this kind of black hole could be more properly modeled like a condensate of some stringy stuff. So let's talk about fuzzballs instead of black holes.</p>
+
+<blockquote>
+  <ol>
+  <li>What does that microscopic fuzzball model look like?</li>
+  <li>What does string theory tell us about the evaporation of those fuzzballs? Is the Hawking radiation still the main effect (as for the regular black holes) or do other phenomena take over at some point?</li>
+  <li>Also feel free to add any other established results regarding black hole decay (as Jeff did with information preservation).</li>
+  </ol>
+</blockquote>
+"
+"2585","Pauli exclusion principle and Entangled pairs","<p>It is true for fermions in the same potential that the total wavefunction of two particles must be antisymmetric with respect to exchange of electrons. Which means the spin wavefunction is given by </p>
+
+<p>$\chi=\frac{1}{\sqrt{2}}[\chi_+ (1)\chi_- (2)-\chi_+ (2)\chi_- (1)] $</p>
+
+<p>which looks very much like the bell state, </p>
+
+<p>$\beta_{11}=\frac{1}{\sqrt{2}}[ |01\rangle - |10 \rangle]$. </p>
+
+<p>So, can we call those fermions, entangled states, as long as they are within the potential or there is something fundamentally special about entangled states (e.g. difference in measurement statistics) which makes them more unique?</p>
+
+<p>Apologies if the question is too simple for the level of this website. However, apparently it has made a lot of confusion for many people!</p>
 "
 "2594","Steps for going from Polyakov action to low-energy effective action (SUGRA?) in String Theory","<p>A lot of string-theory questions have been asked here. This one is, hopefully, different in that this inquiry is specific and the expected answer would be more mathematical than philosophical in character.</p>
 
 <p>To give some context, I'm familiar with LQG, QFT etc. I'm a beginner in CFT and string-theory. On reading papers on AdS/CFT and String Theory the following sentence often appears: ""<strong>The low-energy effective action for $x$ dimensional ST of type $y$ reduces to that of supergravity (SUGRA) in $z$ dimensions with matter fields of types $a$, $b$ and $c$</strong>"".</p>
 
 <p>The $64,000 dollar question any noob, such as me, wants answered is what are the mathematical/technical steps or arguments which lead us from the fundamental action of string-theory (the Polyakov/Nambu-Goto action) to a low-energy effective description. Of course, I might be asking a question for which the only concise answer is: ""<em>go read GSW</em>"". Here's hoping otherwise ;)</p>
+"
+"2774","Rotate a long bar in space and get close to (or even beyond) the speed of light $c$","<p>Imagine a bar </p>
+
+<p>spinning like a helicopter propeller,</p>
+
+<p>At $\omega$ rad/s because the extremes of the bar goes at speed</p>
+
+<p>$$V = \omega * r$$</p>
+
+<p>then we can reach near $c$ (speed of light)
+applying some <strong>finite</strong> amount of energy
+just doing </p>
+
+<p>$$\omega = V / r$$</p>
+
+<p>The bar should be long, low density, strong to minimize the
+amount of energy needed</p>
+
+<p>For example a $2000\,\mathrm{m}$ bar</p>
+
+<p>$$\omega = 300 000 \frac{\mathrm{rad}}{\mathrm{s}} = 2864789\,\mathrm{rpm}$$</p>
+
+<p>(a dental drill can commonly rotate at $400000\,\mathrm{rpm}$)</p>
+
+<p>$V$ (with dental drill) = 14% of speed of light.</p>
+
+<p>Then I say this experiment can be really made
+and bar extremes could approach $c$.</p>
+
+<p>What do you say? </p>
+
+<p><strong>EDIT</strong>:</p>
+
+<p>Our planet is orbiting at sun and it's orbiting milky way, and who knows what else, then any Earth point have a speed of 500 km/s or more agains CMB.</p>
+
+<p>I wonder if we are orbiting something at that speed then there would be detectable relativist effect in different direction of measurements, simply extending a long bar or any directional mass in different galactic directions we should measure mass change due to relativity, simply because $V = \omega * r$</p>
+
+<p>What do you think?</p>
+"
+"3041","Black Hole Singularities","<p>If two black holes collide and then evaporate, do they leave behind two naked sigularities ore? If there are two, can we know how they interact?</p>
+"
+"3193","What determines which frames are inertial frames?","<p>I understand that you can (in principle) measure whether ""free particles"" (no forces) experience accelerations in order to tell whether a frame is inertial. But fundamentally, what determines which frames are inertial (i.e. what principle selects in which frames free particles will not appear to accelerate)? I've been told that the cosmic microwaves determine the ultimate rest frame of the universe, but that doesn't make sense to me, since one can still ask why that frame is an inertial frame.</p>
+
+<p>Also, I understand that there are no real inertial frames in general relativity, but it seems like there certainly exists approximate inertial frames and we can ask why those frames are approximately inertial and not others. For example, in the frame of a person riding a merry go round, free particles appear to greatly accelerate; while in the frame of someone standing next to the merry go round there are no such great accelerations. Why does the guy (or gal) on the merry go round see free particles accelerating while the other guy doesn't. </p>
+
+<p>And if you're gonna tell me that it's ""the rest of the stuff in the universe"" that determines whether the person on the merry go round sees free particles accelerate, I'll ask how you know that all that stuff is not spinning.</p>
+
+<p>I hope this question sort of makes sense, it's been bothering me for a while and my study of relativity (most of special relativity and just the outline of general relativity) hasn't really clarified it for me much.</p>
+"
+"3568","Temperature of a System of molecules","<p>Suppose I have a closed system with N molecules in it which are vibrating and all motion equations (rotation, translation and vibration) of the system are known along with any EM field equations in the region. Given all these information how do we <strong>calculate</strong> (not measure) the <strong>temperature of this system</strong>?</p>
+"
+"3576","How to mathematically formulate the Two Slit Experiment in Special Relativity?","<p>How to mathematically formulate the Two Slit Experiment in a Lorentz invariant framework.</p>
+
+<p>Is there a paper about this?</p>
+"
+"3881","Why the Hamiltonian near degeneracies should be proportional to Pauli matrices?","<p>When a quantum system have a double degenerescence at one point, the Hamiltonian should be proportional to Pauli matrices near this point (also known as <em>diabolic point</em>) [<a href=""http://ajp.aapt.org/resource/1/ajpias/v78/i7/p661_s1?isAuthorized=no"" rel=""nofollow"">Ref.</a>]. But, why the Hamiltonian have this form?</p>
+"
+"4506","Homework about spinning top","<p>I have a top of unknown mass that has a moment of inertia $I=4\times 10^{-7} kg \cdot m^2$. A string is wrapped around the top and pulls it so that its tension is kept at 5.57 N for a distance of .8 m.</p>
+
+<p>Could somebody help me derive some equations to help with this? Or to get me in the right direction? I have been trying to derive some sort of equations from $E=\frac{I \cdot \omega ^{2}}{2}$ but I cant get anywhere without ending up at radius = radius or mass = mass.</p>
+
+<p>I need the final angular velocity.</p>
+"
+"4830","Does particle indistinguishability and quantised enery levels (in bound states) violate the Pauli Exclusion Principle?","<p>First, I should point out that this question was raised by a particle physics Professor whose lessons I attended last year. I don't recall exactly how the question was phrased so if anyone would like to suggest an edit feel free.</p>
+
+<p>So, here are some statements that to the best of my knowledge are correct:</p>
+
+<ul>
+<li>In QM and the Standard Model of particle physics all fundamental particles of the same species are completely equivalent and indistinguishable.</li>
+<li>The wavefunction for every real particle exists throughout the entire Universe. (I'm not sure how to phrase this statement in terms of QFT but I'm pretty sure there is still a non-zero probability of finding any given particle popping up at the edge of the universe.)</li>
+<li>The ground state of the electron in a hydrogen atom has a unique, universal energy eigenvalue.</li>
+</ul>
+
+<p>My question is therefore if (despite their distinct positions) all electrons in hydrogen atoms have the same energy, and their wavefunctions extend across the entire Universe, how does this not violate the Pauli Exclusion Principle?</p>
+
+<p>I remember my Professor saying the resolution to this was that the electrons must therefore have minutely differing energies; either agreed between them from the first instances of the big bang or resulting from the interfering 'tales' of their wavefunction. Clearly the first option doesn't explain hydrogen atoms formed more recently so the second would seem more promising. I should note that by ""minute difference"" I think he said something like the order of 10^-20 eV so well out of the realms of potential measurement.</p>
+
+<p>Like I said I may not have remembered and phrased this question correctly. Please don't crucify me for any 'school-boy' mistakes but constructive criticism in the comments would be appreciated to help me phrase it better.</p>
+"
+"5435","On-site repulsion and Pauli exclusion","<p>Been studying hopping conduction and something that everyone is taking for granted is bothering me.</p>
+
+<p>Let's say we have a bunch of sites that are either unoccupied, singly occupied, or doubly occupied. Due to on-site Coulomb repulsion the two electron levels are separated by U energy at a doubly occupied site. Now everyone is saying that the two electrons on the double site are in the spin singlet state due to, I assume, Pauli exclusion. However the two electrons are not in the same energy level - they are separated by U so why is there a restriction on their spins?</p>
 "
 "10233","Proving that the free energy is extensive","<p>If I have two system of an Ideal gas $A$ and $B$ each of these system has a  partition function:</p>
 
@@ -515,6 +813,52 @@ I would like to get into some particle physics. </p>
 <p>So, for $Z_A + Z_B = Z_{A+B}$ to be true $V_A^{N_A} V_{B}^{N_B} = \left(V_A + V_B \right)^{N_A + N_B}$ must be true as well but this isn't true for any system.</p>
 
 <p>Since we cannot create energy by mixing two containers of Argon in the same pressure and temperature, something in my understanding is wrong. Where is my fault? </p>
+"
+"11003","What causes the Pauli exclusion principle (and why does spin 1/2 = fermion)?","<p>It seems to be related to <a href=""http://en.wikipedia.org/wiki/Exchange_interaction"" rel=""nofollow"">exchange interaction</a>, but I can't penetrate the Wikipedia article. What has the Pauli exclusion principle to do with indistinguishability?</p>
+"
+"12175","Book recommendations","<p>Every once in a while, we get a question asking for a book or other educational reference on a particular topic at a particular level. This is a meta-question that collects all those links together. If you're looking for book recommendations, this is probably the place to start.</p>
+
+<p>All the questions linked below, as well as others which deal with more specialized books, can be found under the tag <a href=""/questions/tagged/resource-recommendations"" class=""post-tag"" title=""show questions tagged &#39;resource-recommendations&#39;"" rel=""tag"">resource-recommendations</a> (formerly <a href=""/questions/tagged/books"" class=""post-tag"" title=""show questions tagged &#39;books&#39;"" rel=""tag"">books</a>).</p>
+
+<p>If you find a question that should be added to the list, edit it into the existing list answer rather than creating your own answer for it.  See <a href=""http://meta.physics.stackexchange.com/a/4698/22494"">our policy</a> on resource recommendations for details.</p>
+
+<p><strong>Related Meta:</strong> <a href=""http://meta.physics.stackexchange.com/q/5307/23119"">Do we need/want an overarching books question?</a> </p>
+"
+"28155","Does moving something horizontally in gravity do no work?","<blockquote>
+  <p>Bill’s job is to lift bags of flour and place them in the back of a
+  truck, which is parked next to him. Sally is loading the same bags of
+  flour into a similar truck that is located 10 m away. Sally wants a
+  raise because she says she is doing more work than Bill. Does the
+  physics definition of work support her claim?</p>
+</blockquote>
+
+<p><strong>Attempt</strong>: By the definition Work is Force multiplied by the Displacement in the direction of the force. Sally does the same amount of Work when she lifts the bag. But, when she cares the bag for 10 m to the truck there is no force exerted on the bag in the direction of the truck. Therefore, she does the same amount of Work. Is my reasoning correct? Why the Force exerted in the direction of the truck is zero?</p>
+"
+"28220","How many particles is needed to observe a phase transition?","<p>This is a question that was rised when we were discussing ""what is melting actually"". How many particles you need to form a liquid or solid. I have some remarks to point out what I want to know.</p>
+
+<p>Q: How many particles is needed to observe a phase transition?</p>
+
+<p>A:</p>
+
+<ol>
+<li>just one, phase transition is not a collective phenomena.</li>
+<li>1 million, Ising model in 1000x1000 lattice produces a phase transition.</li>
+<li>$N_a$, phase transition is a thermodynamic concept and you always need to be in TD limit.</li>
+<li>The question is dependent on the process. For instance, in phenomena A you need N particles, but in B you need M particles. </li>
+<li>The question is stupid, you should ask X instead.</li>
+</ol>
+
+<p>I would like to know which arguments are true and which are false (and why). Also, how many particles you need to form a liquid from solid (one particle with Gibbs energy above some limit X is a liquid?).</p>
+"
+"31565","Why Pauli exclusion instead of electrons canceling out?","<p>To quote <a href=""http://en.wikipedia.org/wiki/Pauli_exclusion_principle"" rel=""nofollow"">Wikipedia</a>,</p>
+
+<blockquote>
+  <p><em>The Pauli exclusion principle is the quantum mechanical principle that no two identical fermions (particles with half-integer spin) may occupy the same quantum state simultaneously. A more rigorous statement is that the total wave function for two identical fermions is anti-symmetric with respect to exchange of the particles.</em></p>
+</blockquote>
+
+<p>As far as I can tell, this means that two identical electrons in identical states have wave functions that cancel each other out.</p>
+
+<p>My question is, if this is the case, why do we have the Pauli exclusion principle? It seems that getting two electrons too close should annihilate both of them (or cancel them out, or however you want to say it), but instead we have the Pauli exclusion principle, where somehow the electrons remain separate. Why?</p>
 "
 "35528","Collision between Neutron stars and Black holes","<p>When two neutron stars or black-holes come closer and closer, their angular velocity increases with decrease of distance and they start to revolve around a constant center with high relativistic speeds due to the influence of gravity... At last,</p>
 
@@ -559,6 +903,8 @@ I would like to get into some particle physics. </p>
 <li><a href=""http://mynasadata.larc.nasa.gov/P4.html"" rel=""nofollow"">http://mynasadata.larc.nasa.gov/P4.html</a></li>
 </ul>
 "
+"39467","Einstein's special relativity beyond the speed of light","<p>Could someone with access to <a href=""http://rspa.royalsocietypublishing.org/content/early/2012/09/25/rspa.2012.0340.short"">this paper</a> which claims to have new transformations between frames with relative motion faster than light which are supposedly consistent with special-relativity, say what the new transformations are and why they might make sense ?</p>
+"
 "41132","Fitting of exponential data gives me a constant function","<p>I conducted an experiment, where a capacitor is discharged over a (big) resistor for $t$ seconds and then the remaining charge is measured with a ballistic galvanometer. The data I have is:</p>
 
 <pre><code>t       phi
@@ -601,11 +947,23 @@ g               = -3.43204e+07     +/- 3.281e+13    (9.561e+07%)
 
 <p>How can I get a meaningful fit for this, other than trying to fit it by hand?</p>
 "
+"41953","Spring-mass physics homework question","<p>I've been having trouble with my physics homework. The problem is: </p>
+
+<blockquote>
+  <p><em>You may have measured the properties of a simple spring-mass system in the lab. Suppose you found ks = 0.9 N/m and m = 0.01 kg, and you observed an oscillation with an amplitude of 0.5 m. What is the approximate value of N, the ""quantum number"" for this oscillator? (That is, how many levels above the ground state is this oscillator?)</em></p>
+</blockquote>
+"
 "54415","Higgs-Boson/Graviton","<p>The Higgs boson gives particles mass. And the graviton is the theoretical force-carrier of gravity. Gravity depends on mass. So if the Higgs Boson gives things mass, it therefore gives them gravity. Is the Higgs Boson the same thing as a Graviton? Or is there a difference? The only thing I know is that the Higgs Field is something very different from the Gravitational Field. Yet, I'm not satisfied with that fact. I want to know why the Higgs Boson is not the Graviton.</p>
 "
 "59637","Demonstrating Quantum effects with home experiments using green diode laser","<p>I would like to preform home experiments to demonstrate quantum effects to my kids. I need a list of experiments on Laser photons that could be easily conducted at home to demonstrate quantum mechanical effects. I'm not interested in experiments that can be explained by considering light as electromagnetic waves.</p>
 
 <p>I would appreciate helpful suggestions or a good reference.</p>
+"
+"65460","Why should a battery not give current in order to measure EMF?","<p>Emf is the ""potential difference (PD) across the terminals of a battery when it is giving no current to the circuit.""</p>
+
+<p>What does ""when it is giving no current mean""? Will the PD across the terminals of battery when it is not giving current to the circuit equal to the case when the battery is giving current to the circuit? </p>
+
+<p>If the internal resistance is coming into play to answer this question then I want to ask that ""Internal resistance is present is present in both the cases, either the battery is giving no current or giving it to the circuit, then why do we not call the PD across battery terminals ""emf"" when it is giving current.""</p>
 "
 "71257","Book recommendations for fluid dynamics self study","<p>I have my bachelors degree in engineering science: computer science, option electrotechnic. I have a good understanding of basic mechanics and dynamics, calculus (differential equations).</p>
 
@@ -635,6 +993,16 @@ g               = -3.43204e+07     +/- 3.281e+13    (9.561e+07%)
 <p>And I somehow want to combine this with the upward force of pressure in the room.</p>
 
 <p>Am I on the right track?</p>
+"
+"109226","Coriolis Force in a Merry go Round","<p>Suppose there is a person standing in a Merry go Round, which is rotating at a constant angular velocity $\vec \omega$. He experiences, of course, a centripetal acceleration $\vec a_{cen}$ and has some tangental velocity $\vec v_{tan}$.</p>
+
+<p>This person now starts to walk in a circular path against the direction of rotation with a velocity $\vec v$ with respect to the Merry go Round. From an inertial frame of reference outside the Merry go Round, an observer should notice a Coriolis acceleration pointing radially outwards, given by $\vec a_{coriolis}=2 (\vec \omega \times \vec v)$.</p>
+
+<p>If $2|\vec v|=|\vec v_{tan}|$ then the Coriolis acceleration would be equal and opposite to the centripetal acceleration and  the observer in the inertial frame of reference would see this person standing still.</p>
+
+<p>If $2|\vec v|&gt;|\vec v_{tan}|$ then the Coriolis acceleration is greater than the centripel acceleration and the person would move in a spiral with an increasing radius against the direction of rotation of the Merry go Round, as seen from the inertial frame of reference.</p>
+
+<p>Is this reasoning correct?</p>
 "
 "136587","Modeling a wine cooler heat loss to ambient","<p>I'm trying to model the steady state heat loss to ambient, in W, for a wine cooler similar to the following:</p>
 
@@ -700,6 +1068,45 @@ $$</p>
 <li>How should I fix my model of heat loss by radiation?</li>
 </ul>
 "
+"143170","Increase in kinetic energy as some one walks to the centre of a merry-go-round?","<p>When someone walks to the directly centre of a merry-go-round the total kinetic energy of the merry-go-round and person system increases. (assuming the kinetic energy due to the person walking to the centre (i.e. their radial) kinetic energy is negligible). I understood that this extra energy comes from the person doing work on the merry-go-round but how can this be? They are providing no work to the merry-go-round in the direction of its motion and thus doing no work on it. So how does the work get transverse from chemical energy in the persons muscles to the kinetic energy of the merry-go-round person system (assuming the person starts and ends at rest with respect to the merry-go-round). (I also know that we need this increases in energy to satisfy the principle of the conservation of angular momentum ). Thanks.</p>
+"
+"149468","Reading list and book recommendation on Conformal Field Theory","<p>I have a background in QFT, GR and differential geometry at the level of a master student in theoretical physics. I would like to touch the area of CFT. I know the textbook of Philippe Di Francesco. It may be too big for the beginner like me. Are there some good introductory lectures or textbooks adapted to the needs of beginners? </p>
+"
+"179622","Movement and Rotation of a Inverted-Pendulum-like Object with External Forces","<p>I'm struggling to model the movement of a complex object based on an external force.</p>
+
+<hr>
+
+<p>Let's start with a simple example of what I'm looking for.</p>
+
+<p>We have a block $b$ of mass $M_b$, moving friction-less along a surface. It's influenced by a varying external force $F_b(t)$.</p>
+
+<p><img src=""http://i.stack.imgur.com/XlUFG.png"" alt=""sketch""></p>
+
+<p>How does the block move? We have $a_b(t) = \frac{F_b(t)}{M_b}$, so assuming we start with $x_b(0) = 0$ and $v_b(0) = 0$, we have $x_b(t) = \frac{1}{2} \frac{F_b(t)}{M_b} t^2$. </p>
+
+<hr>
+
+<p>I need the same calculation for a more complex object, which is basically an inverted pendulum.</p>
+
+<p><img src=""http://i.stack.imgur.com/P7BFu.png"" alt=""sketch""></p>
+
+<p>On the block, we mount an axis, and connect a long rod with mass $M_{rod}$ to it. It has a large mass $M_{head}$ on its top.</p>
+
+<p>The two main points I'm struggling with:</p>
+
+<ol>
+<li>The inertia of the object changed. As long as the rod is almost upright, it's somewhat intuitive that the block will accelerate slower than before (the lower parts of the rod have to be accelerated as well), and faster than if the rod was fixed (making this a fixed object with mass $M_b + M_{rod} + M_{head}$). I'm pretty sure that this has to be factored in as a backwards force the rod exerts to the block, but I have no idea how to calculate its strength.</li>
+<li><p>We get additional forces when the rod is no longer upright.</p>
+
+<p><img src=""http://i.stack.imgur.com/gNcme.png"" alt=""sketch""></p>
+
+<p>Gravity pulls on the rod and head with the force $F_g$ in the shared center of mass. Using $\alpha$, this can be split into a force $F_t$ that acts as a torque on the rod and head, and a force $F_p$ that pushes down the rod onto the block.</p></li>
+</ol>
+
+<p>Are these considerations right so far? How could I continue?</p>
+
+<p>The ultimate goal is a function $x(t)$ depending on the properties of the objects and $F_b(t)$ &ndash; but I'm more interested in the way to get there than the actual result. (This is why I tagged this <code>homework-and-exercises</code>, although this is not homework.)</p>
+"
 "249823","Meaning and logic of Einstein's train thought experiment","<p>This seems to be a recurrent topic but I wasn't able to find any satisfactory discussion about this tought experiment.</p>
 
 <p>I will quote the original story from <a href=""http://www.bartleby.com/173/9.html"" rel=""nofollow"">Einstein's</a> and put my doubts inside:</p>
@@ -758,6 +1165,26 @@ $$</p>
 </ol>
 
 <p>In fact the only concept we are considering here is a purely techical definition of ""simultaneity"" and the observer just notice that this definition doesn't apply in his reference, but this is not an <em>actual</em> simultaneity (or actual non-simultaneity) in the sense we are familiar with (with a reference to absolute time): it is just a completely new definition and we just discovered that it defines a property that depends on the reference.</p>
+"
+"250088","Spheres collide with merry-go-round","<p>Four spheres, with uniform densities $\rho_1, \rho_2, \rho_3, \rho_4$ and radii $r_1, r_2, r_3, r_4$, respectively, roll without slipping with constant velocities $v_1, v_2, v_3, v_4$ along tracks that direct them towards a merry-go-round with moment of inertia $I$. </p>
+
+<p>All four spheres move in perfectly straight lines.</p>
+
+<p>The ride has paddles installed on it that extend straight out from its rotation axis (assume that they all have zero thickness).  </p>
+
+<p>All four spheres simultaneously collide, at 90-degree angles, with the paddles and each sphere contacts one paddle. Additionally, all four collisions are perfectly elastic (no energy is lost).  </p>
+
+<p>The problem asks for: </p>
+
+<p>A. The velocities of all four spheres <strong>after</strong> the collisions </p>
+
+<p>B. The resultant angular velocity of the merry-go-round (in <strong><em>revolutions</em></strong> per second) </p>
+
+<p>The next part of the problem, a ""challenge"" section, is to generalise this problem to any number $n$ of spheres (given each one's radius and density), but still assuming that each sphere collides at a 90-degree angle with only one paddle. </p>
+
+<p>There seems to be more unknowns than equations, especially if one had a large number of spheres. Conservation of Angular Momentum and conservation of Energy are definitely going to be used here, but <strong><em>what other equations would there be?</em></strong> </p>
+
+<p>I would appreciate if you could answer either or both of parts (A) and (B). </p>
 "
 "264269","Why can the 2p0 to 1s transition in hydrogen with dipole interaction not be solved without splitting into x,y,z polarisation?","<p>The $2p_0$ and $1s$ wavefunctions for hydrogen;</p>
 
