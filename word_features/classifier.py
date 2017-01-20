@@ -40,7 +40,7 @@ words=[x for x in tes_data.groupby('\'id\'',as_index=False,group_keys=False,sort
 word_feature_len=5
 
 x=np.array(training_data)
-y=np.array(label).argmax(axis=1)
+y=np.array(label)
 #print type(x),x.shape,y.shape #<type 'numpy.ndarray'> (4645965, 5) (4645965, 2)
 
 batch_size=50
@@ -60,7 +60,7 @@ print "model saved"
 model=load_model('my_model')
 with open('ans.csv','w')as csvfile:
     spamwriter=csv.writer(csvfile,delimiter=',')
-    spamwriter.writerow(["'id','tags'\n"])
+    spamwriter.writerow(['id','tags'])
     for i in range(len(test_data)):
         #print words[i][6]
         txt=np.array(test_data[i])
