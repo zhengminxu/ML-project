@@ -1,7 +1,12 @@
 codes are in src/
 if you just want to fine tune, apply my_fine_tune.py to the previous output answers
 
-Getting NN model  : python weights.py data_path (weights.py is in /src)
+Getting NN model  : python weights.py data_path feature_name
+   weights.py is in src/
+   if feat/feats.npy exits, it will automatically use the preprocessed feature to training.
+   else, it will do from scratch and save the processed feature as feat/feats.npy
+   if the feature_name file doesn't exits in feat/, it will run from beginning and save feature as feat/filename, however, this is used only as feat/feats.npy doesn't exit.
+   for saving time, can just run python weights.py ../data weights.npy
    The model will be saved as /model/best.h5
 
 from scratch:
