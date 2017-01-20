@@ -6,8 +6,8 @@ Getting NN model  : python weights.py data_path feature_name
    if feat/feats.npy exits, it will automatically use the preprocessed feature to training.
    else, it will do from scratch and save the processed feature as feat/feats.npy
    if the feature_name file doesn't exits in feat/, it will run from beginning and save feature as feat/filename, however, this is used only as feat/feats.npy doesn't exit.
-   for saving time, can just run python weights.py ../data weights.npy
-   The model will be saved as /model/best.h5
+   for saving time, one can just run python weights.py ../data weights.npy
+   The best model will be saved as /model/best.h5
 
 from scratch:
    for the followings, if you adjust nb_cluster to be less than the file numbers in each directory, please remove all the files in each directory before running codes
